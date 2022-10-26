@@ -1,5 +1,5 @@
 # PokemonGo Team Tracker
-Front end app focused app made with Angular for Bay Valley Tech. Meant to get acquainted with Angular before exploring backends and APIs.
+Front end focused app made with Angular for Bay Valley Tech. Meant to get acquainted with Angular before exploring backends and APIs.
 
 
 # AngularFirstProject
